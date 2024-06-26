@@ -10,8 +10,6 @@ This project demonstrates object detection using multisensor data (LiDAR and cam
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
-- [License](#license)
 
 ## Introduction
 
