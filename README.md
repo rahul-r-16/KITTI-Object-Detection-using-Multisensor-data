@@ -1,4 +1,4 @@
-# KITTI Object Detection using Multisensor
+# KITTI Object Detection using Multisensor data
 
 This project demonstrates object detection using multisensor data (LiDAR and camera) from the KITTI dataset. The project leverages data from the KITTI Vision Benchmark Suite and uses machine learning techniques to detect objects in the environment.
 
